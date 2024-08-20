@@ -12,8 +12,8 @@ The Python bot script effectively manages WebSocket connections using specified 
 
 #Get Proxies IP address Socks5 
 
-1. Create a Account in https://app.getgrass.io/register/?referralCode=jOZIJ1QkHbnnPWA
-2. Go To https://app.proxies.fo/plans and buy the below plan
+1. Create a Account in https://app.proxies.fo/ref/2b2ee7cc-2e99-ada0-3c49-9b8928128f40
+2. Go to plan and buy the below plan
 3. ![image](https://github.com/qds1014/get_grass_bot/blob/main/img/2.png?raw=true)
 4. Now go to DashBoard and `click Go to Generator` button 
 5. Now change the Proxy formate to ` USER:PASS@HOST:PORT ` and use ` Socks5` in proxy count write any number.
